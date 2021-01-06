@@ -1,0 +1,14 @@
+.login-wrapper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-form{
+    width: 500px;
+    height: auto;
+    /* background-color: lightblue; */
+    /* color: #fff; */
+    padding: 10px;
+}

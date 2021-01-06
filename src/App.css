@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+body,html{
+  overflow-x: hidden;
+}
+
+.powerOff{
+  position: fixed;
+  /* background-color: red; */
+  bottom: 20px; right:0 ;
+  z-index: 120;
+}
+button{
+  outline: none;
+}

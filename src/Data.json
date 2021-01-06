@@ -1,0 +1,65 @@
+[
+    {
+        "albumId": 1,
+        "id": 1,
+        "title": "accusamus beatae ad facilis cum similique qui sunt",
+        "url": "https://picsum.photos/600",
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+      },
+      {
+        "albumId": 1,
+        "id": 2,
+        "title": "reprehenderit est deserunt velit ipsam",
+        "url": "https://picsum.photos/400",
+        "thumbnailUrl": "https://via.placeholder.com/150/771796"
+      },
+      {
+        "albumId": 1,
+        "id": 3,
+        "title": "officia porro iure quia iusto qui ipsa ut modi",
+        "url": "https://picsum.photos/400/304",
+        "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+      },
+      {
+        "albumId": 1,
+        "id": 4,
+        "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+        "url": "https://picsum.photos/400/303",
+        "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+      },
+      {
+        "albumId": 1,
+        "id": 5,
+        "title": "natus nisi omnis corporis facere molestiae rerum in",
+        "url": "https://picsum.photos/400/302",
+        "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+      },
+      {
+        "albumId": 1,
+        "id": 6,
+        "title": "accusamus ea aliquid et amet sequi nemo",
+        "url": "https://picsum.photos/400/300",
+        "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+      },
+      {
+        "albumId": 1,
+        "id": 7,
+        "title": "officia delectus consequatur vero aut veniam explicabo molestias",
+        "url": "https://picsum.photos/400/309",
+        "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+      },
+      {
+        "albumId": 1,
+        "id": 8,
+        "title": "officia delectus consequatur vero aut veniam explicabo molestias",
+        "url": "https://picsum.photos/400/307",
+        "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+      },
+      {
+        "albumId": 1,
+        "id": 9,
+        "title": "officia delectus consequatur vero aut veniam explicabo molestias",
+        "url": "https://picsum.photos/400/308",
+        "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+      }
+]
